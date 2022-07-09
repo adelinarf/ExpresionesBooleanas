@@ -1,5 +1,5 @@
 # Manejador de expresiones booleanas
-Este programa evalúa y parentiza expresiones booleanas en notación prefija y postfija. Para el manejo de las expresiones se implementó un AST o árbol de sintaxis abstracta que permite evaluar las expresiones y parentizarlas de manera sencilla. Además hay una implementación aparte para la evaluación de expresiones booleanas en las funciones evaluarPreorder y evaluarPostorder.
+Este programa evalúa y parentiza expresiones booleanas en notación prefija y postfija. Para el manejo de las expresiones se implementó un AST o árbol de sintaxis abstracta que permite evaluar las expresiones y parentizarlas de manera sencilla. Además hay una implementación extra para la evaluación de expresiones booleanas en las funciones evaluarPreorder y evaluarPostorder que se basa en una lista en la que se alojan los valores para su uso posterior al analizar la expresión.
 
 ## ¿Cómo correr?
 Al introducir las expresiones se debe indicar si están escritar en notación prefija o postfija, con las palabras PRE o POST. Para evaluar una expresión y mostrar una expresión booleana prefija o postfija parentizada se debe escribir:
