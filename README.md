@@ -24,9 +24,9 @@ Se puede salir del programa con la palabra SALIR
     SALIR
     
 ## Unit Test
-El unit test se realizó con el archivo tests.py y se pasaron todos los tests. Obteniendo un 90% de code coverage, que fue calculado con ayuda de la herramienta coverage.py https://coverage.readthedocs.io/en/6.4.1/
+El unit test se realizó con el archivo tests.py y se pasaron todos los tests. Obteniendo un 98% de code coverage, que fue calculado con ayuda de la herramienta coverage.py https://coverage.readthedocs.io/en/6.4.1/
 
-<img src="coverage.jpg" alt="tests"/>
+<img src="coverageBool.jpg" alt="tests"/>
 
     
   
